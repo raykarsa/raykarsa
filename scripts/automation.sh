@@ -1,0 +1,4 @@
+﻿# Small automation helpers
+
+  shift
+
