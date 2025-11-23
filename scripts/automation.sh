@@ -8,3 +8,5 @@
 
 }
 
+run_step "list current directory" ls
+
