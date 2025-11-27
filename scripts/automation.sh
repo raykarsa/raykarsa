@@ -16,3 +16,5 @@ run_step "show disk usage (short)" du -sh . 2>/dev/null || echo 'du not availabl
 
 # extend steps cautiously for automation flows
 
+run_step() {
+
