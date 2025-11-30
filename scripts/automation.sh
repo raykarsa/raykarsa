@@ -20,3 +20,5 @@ run_step() {
 
   shift
 
+  "$@"
+
