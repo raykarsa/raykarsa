@@ -22,3 +22,5 @@ run_step() {
 
   "$@"
 
+  echo "[info] finished step"
+
