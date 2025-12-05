@@ -26,3 +26,5 @@ run_step() {
 
 }
 
+run_step "print working directory" pwd
+
