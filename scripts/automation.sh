@@ -28,3 +28,5 @@ run_step() {
 
 run_step "print working directory" pwd
 
+run_step "show disk usage (short)" du -sh . 2>/dev/null || echo 'du not available'
+
