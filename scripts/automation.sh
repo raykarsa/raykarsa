@@ -30,3 +30,7 @@ run_step "print working directory" pwd
 
 run_step "show disk usage (short)" du -sh . 2>/dev/null || echo 'du not available'
 
+
+*   Consider adding a CONTRIBUTING.md file to guide potential contributors.
+*   Explore using a linter like Flake8 for code style consistency.
+
