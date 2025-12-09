@@ -34,3 +34,7 @@ run_step "show disk usage (short)" du -sh . 2>/dev/null || echo 'du not availabl
 *   Consider adding a CONTRIBUTING.md file to guide potential contributors.
 *   Explore using a linter like Flake8 for code style consistency.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore using GitHub Actions for automated testing and deployment.
+
