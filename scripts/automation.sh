@@ -43,3 +43,7 @@ Consider adding a section to the README explaining the intended use case for eac
 
 Explore potential integrations with popular data visualization libraries (e.g., Matplotlib, Seaborn, Plotly) for easier analysis of generated data.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore integrating a continuous integration/continuous deployment (CI/CD) pipeline for automated testing and deployment.
+
