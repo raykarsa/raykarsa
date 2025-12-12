@@ -47,3 +47,7 @@ Explore potential integrations with popular data visualization libraries (e.g., 
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore integrating a continuous integration/continuous deployment (CI/CD) pipeline for automated testing and deployment.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+Explore integration with other distributed computing frameworks or libraries.
+
