@@ -55,3 +55,7 @@ Explore integration with other distributed computing frameworks or libraries.
 Add a README.md explaining the project's purpose and setup.
 Consider implementing unit tests for key functions.
 
+
+Consider adding a README.md explaining the project's purpose and how to run it.
+Explore adding unit tests to ensure code robustness.
+
