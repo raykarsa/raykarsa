@@ -59,3 +59,8 @@ Consider implementing unit tests for key functions.
 Consider adding a README.md explaining the project's purpose and how to run it.
 Explore adding unit tests to ensure code robustness.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore potential integrations with other popular AI/ML frameworks or libraries.
+
