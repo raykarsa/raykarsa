@@ -64,3 +64,8 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore potential integrations with other popular AI/ML frameworks or libraries.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+
+Explore CI/CD pipeline integration for automated testing and deployment.
+
