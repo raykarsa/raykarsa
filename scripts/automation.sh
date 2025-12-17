@@ -69,3 +69,7 @@ Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 
 Explore CI/CD pipeline integration for automated testing and deployment.
 
+
+* **Refactor for better error handling and logging.**
+* **Consider adding unit tests for core functionalities.**
+
