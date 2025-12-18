@@ -73,3 +73,7 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 * **Refactor for better error handling and logging.**
 * **Consider adding unit tests for core functionalities.**
 
+
+Consider adding a "Contributing.md" file to guide potential contributors.
+Implement automated testing with a CI/CD pipeline for reliable code.
+
