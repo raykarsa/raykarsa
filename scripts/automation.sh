@@ -77,3 +77,7 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 Consider adding a "Contributing.md" file to guide potential contributors.
 Implement automated testing with a CI/CD pipeline for reliable code.
 
+
+Consider adding a section on using raykarsa with different data sources or formats.
+Explore potential integrations with other AI/ML libraries or frameworks.
+
