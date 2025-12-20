@@ -81,3 +81,7 @@ Implement automated testing with a CI/CD pipeline for reliable code.
 Consider adding a section on using raykarsa with different data sources or formats.
 Explore potential integrations with other AI/ML libraries or frameworks.
 
+
+* Consider adding example configurations for different use cases (e.g., development, staging, production).
+* Implement automated testing for key functionalities to ensure stability and prevent regressions.
+
