@@ -85,3 +85,7 @@ Explore potential integrations with other AI/ML libraries or frameworks.
 * Consider adding example configurations for different use cases (e.g., development, staging, production).
 * Implement automated testing for key functionalities to ensure stability and prevent regressions.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore potential CI/CD pipelines for automated testing and deployment.
+
