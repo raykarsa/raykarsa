@@ -89,3 +89,7 @@ Explore potential integrations with other AI/ML libraries or frameworks.
 Consider adding a CONTRIBUTING.md file.
 Explore potential CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding example Python scripts showcasing common `raykarsa` use cases like model deployment or hyperparameter tuning.
+Explore integrating `raykarsa` with popular ML frameworks like TensorFlow or PyTorch for seamless workflow transitions.
+
