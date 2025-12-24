@@ -93,3 +93,8 @@ Explore potential CI/CD pipelines for automated testing and deployment.
 Consider adding example Python scripts showcasing common `raykarsa` use cases like model deployment or hyperparameter tuning.
 Explore integrating `raykarsa` with popular ML frameworks like TensorFlow or PyTorch for seamless workflow transitions.
 
+
+Consider adding a CONTRIBUTING.md file outlining guidelines for community contributions.
+
+Explore potential integrations with other popular MLOps tools.
+
