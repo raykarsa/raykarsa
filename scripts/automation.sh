@@ -98,3 +98,7 @@ Consider adding a CONTRIBUTING.md file outlining guidelines for community contri
 
 Explore potential integrations with other popular MLOps tools.
 
+
+Consider adding CI/CD pipelines for automated testing and deployment.
+Explore integrating with popular observability platforms for enhanced monitoring.
+
