@@ -110,3 +110,7 @@ Explore integrations with other MLOps tools for a more comprehensive workflow.
 Consider adding a comprehensive README detailing setup, usage, and contributions.
 Explore potential integrations with other popular AI/ML libraries.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore integrating with CI/CD pipelines for automated testing and deployment.
+
