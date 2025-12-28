@@ -114,3 +114,7 @@ Explore potential integrations with other popular AI/ML libraries.
 Consider adding a CONTRIBUTING.md file.
 Explore integrating with CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file with guidelines for contributors.
+Explore integrating with other community projects or tools.
+
