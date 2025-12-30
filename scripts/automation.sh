@@ -118,3 +118,7 @@ Explore integrating with CI/CD pipelines for automated testing and deployment.
 Consider adding a CONTRIBUTING.md file with guidelines for contributors.
 Explore integrating with other community projects or tools.
 
+
+Consider adding a README with a clear explanation of the project's purpose and usage examples.
+Explore a CI/CD pipeline for automated testing and deployment.
+
