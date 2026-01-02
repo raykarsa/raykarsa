@@ -126,3 +126,8 @@ Explore a CI/CD pipeline for automated testing and deployment.
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Explore CI/CD pipeline integration for automated testing and deployment.
 
+
+Consider adding a GitHub Actions workflow to automatically build and test the project on code commits.
+
+Investigate potential for leveraging Ray's distributed computing capabilities for more complex or computationally intensive simulations if the project grows in scope.
+
