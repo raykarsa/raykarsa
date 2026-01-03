@@ -131,3 +131,7 @@ Consider adding a GitHub Actions workflow to automatically build and test the pr
 
 Investigate potential for leveraging Ray's distributed computing capabilities for more complex or computationally intensive simulations if the project grows in scope.
 
+
+Consider adding a `CONTRIBUTING.md` file for community guidelines.
+Explore options for code coverage reporting.
+
