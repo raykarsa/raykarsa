@@ -135,3 +135,7 @@ Investigate potential for leveraging Ray's distributed computing capabilities fo
 Consider adding a `CONTRIBUTING.md` file for community guidelines.
 Explore options for code coverage reporting.
 
+
+Consider adding a README.md with a brief overview and installation instructions.
+Explore options for contributing guidelines if you plan on receiving external contributions.
+
