@@ -139,3 +139,7 @@ Explore options for code coverage reporting.
 Consider adding a README.md with a brief overview and installation instructions.
 Explore options for contributing guidelines if you plan on receiving external contributions.
 
+
+Consider adding a README.md file.
+Explore GitHub Actions for CI/CD.
+
