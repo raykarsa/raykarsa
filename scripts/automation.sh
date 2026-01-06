@@ -143,3 +143,7 @@ Explore options for contributing guidelines if you plan on receiving external co
 Consider adding a README.md file.
 Explore GitHub Actions for CI/CD.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+Explore integration with other observability tools like Grafana or Prometheus.
+
