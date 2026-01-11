@@ -150,3 +150,7 @@ Explore integration with other observability tools like Grafana or Prometheus.
 
 Consider adding a section for showcasing featured projects or a "getting started" guide for new contributors.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore adding GitHub Actions for CI/CD.
+
