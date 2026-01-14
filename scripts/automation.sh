@@ -158,3 +158,8 @@ Explore adding GitHub Actions for CI/CD.
 Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
 Perhaps include a `LICENSE` file to clearly define usage and distribution terms.
 
+
+Consider adding automated dependency vulnerability scanning.
+
+Explore integration with a CI/CD platform like GitHub Actions or GitLab CI for automated builds and testing.
+
