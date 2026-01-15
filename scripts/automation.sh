@@ -167,3 +167,7 @@ Explore integration with a CI/CD platform like GitHub Actions or GitLab CI for a
 Consider adding a section on common use cases or a quick start guide for new users.
 Include a CONTRIBUTING.md file to outline how others can contribute to the project.
 
+
+Consider adding contribution guidelines.
+Explore integration with other MLOps tools.
+
