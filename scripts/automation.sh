@@ -171,3 +171,8 @@ Include a CONTRIBUTING.md file to outline how others can contribute to the proje
 Consider adding contribution guidelines.
 Explore integration with other MLOps tools.
 
+
+Consider adding a README detailing the project's purpose, setup, and usage.
+
+Explore CI/CD integration for automated testing and deployment.
+
