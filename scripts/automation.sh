@@ -176,3 +176,7 @@ Consider adding a README detailing the project's purpose, setup, and usage.
 
 Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a contribution guide to outline best practices for submitting pull requests.
+Explore integrating GitHub Actions for automated testing and deployment.
+
