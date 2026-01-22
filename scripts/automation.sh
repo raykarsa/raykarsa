@@ -185,3 +185,8 @@ Consider adding an example of using `raykarsa` to deploy a simple web applicatio
 
 Explore integrating `raykarsa` with infrastructure-as-code tools like Terraform or Pulumi for more comprehensive environment management.
 
+
+Add a GitHub Actions workflow for automated testing and code coverage reporting.
+
+Consider implementing a CONTRIBUTING.md file to guide potential contributors.
+
