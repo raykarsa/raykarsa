@@ -194,3 +194,7 @@ Consider implementing a CONTRIBUTING.md file to guide potential contributors.
 Consider adding example usage or integration guides for common scenarios.
 Explore adding automated testing for core functionalities and dependencies.
 
+
+Consider adding a contribution guide.
+Explore integration with other popular ML frameworks or libraries.
+
