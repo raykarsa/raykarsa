@@ -207,3 +207,7 @@ Consider adding an example of how to integrate `raykarsa` with a popular web fra
 
 Explore potential use cases beyond simple data fetching, such as its application in building real-time dashboards or notification systems.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
